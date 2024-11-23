@@ -1,6 +1,3 @@
-Here's an example of a **README.md** file for your **Event Logging System** project:
-
----
 
 # **Event Logging System**
 
@@ -161,10 +158,4 @@ event-logging-system/
 4. Push the branch: `git push origin feature-name`.
 5. Open a pull request.
 
----
 
-
-
----
-
-Let me know if you want to add or modify any section!
